@@ -1,10 +1,9 @@
-WELCOME TO MY
-- 👀 I’m interested in IoT..
-- ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her..
-- ⚡ Fun fact: ...
+# Welcome to My GitHub! 👩‍💻  
+
+Hi, I'm Joy! I'm an Electrical and Electronics Engineering student passionate about *IoT* and *embedded systems*.  
+I’m currently honing my skills in *Python, **C++, and **PCB design* to bring innovative IoT projects to life.  
+
+Feel free to explore my projects and follow along on my journey to becoming an IoT expert!
 - 
 ![python](https://img.shields.io/badge/-Python-3776AB?style=square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-sguare&logo=git&logoColor=white)

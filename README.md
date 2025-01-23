@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joy-reboth-kinyua
+WELCOME TO MY
 - 👀 I’m interested in IoT..
 - ..
 - 💞️ I’m looking to collaborate on ...

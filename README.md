@@ -17,4 +17,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Joy-reboth-kinyua&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-reboth-kinyua&hide_progress=true)
 
-![WakaTime Badge](https://wakatime.com/badge/user/Joy-reboth-kinyua.svg)
+
+## WakaTime Stats
+
+![Wakatime stats](https://wakatime.com/share/@Joy_Reboth_Kinyua/yourstats.png)
